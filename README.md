@@ -24,3 +24,5 @@ nodejs express sequelize firebase postgresql mysql
 Tools  
 
 figma photoshop visualCode git thunderClient babel postman
+
+Do not hesitate to contact me
