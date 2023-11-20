@@ -15,7 +15,7 @@ Skills:
 
 Front end  
 
-html5 css3 javascript react redux redux
+html5 css3 javascript react redux
 
 Back end  
 
