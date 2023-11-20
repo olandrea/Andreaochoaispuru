@@ -23,4 +23,4 @@ nodejs express sequelize firebase postgresql mysql
 
 Tools  
 
-figma photoshop vcode git thunderclient w10 babel postman
+figma photoshop visualCode git thunderClient babel postman
