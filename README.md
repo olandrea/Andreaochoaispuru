@@ -13,11 +13,14 @@ A full-stack developer
 
 Skills:
 
-Front end
+Front end  
+
 html5 css3 javascript react redux redux
 
-Back end
+Back end  
+
 nodejs express sequelize firebase postgresql mysql
 
-Tools
+Tools  
+
 figma photoshop vcode git thunderclient w10 babel postman
